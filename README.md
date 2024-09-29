@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m looking for oppotunities in **Data Science**
+- 🔭 I’m looking for opportunities in **Data Science**
 
 - 👨‍💻Checkout my website [https://shaileshprabhu39.wixsite.com/home](https://shaileshprabhu39.wixsite.com/home)
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shailesh-l-prabhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh-l-prabhu" height="30" width="40" /></a>
 <a href="https://kaggle.com/shaileshlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shaileshlp" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/shailesh](https://leetcode.com/u/shaileshprabhu3/)lp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaileshlp" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shaileshprabhu3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaileshlp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
